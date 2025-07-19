@@ -37,7 +37,7 @@ const GlobalHeader = () => {
               <div className="absolute inset-0 bg-gradient-to-br from-primary to-secondary rounded-lg blur-sm opacity-50 group-hover:opacity-75 transition-opacity duration-150"></div>
             </div>
             <span className="text-xl font-bold text-white group-hover:text-primary transition-colors duration-150">
-              Gamon Society
+              Livera MY
             </span>
           </Link>
 

@@ -89,6 +89,11 @@
   .neon-glow {
     box-shadow: 0 0 20px rgba(162, 89, 255, 0.3);
   }
+
+  /* Apple-style rounded corners for all buttons */
+  button, .btn, [type="button"], [type="submit"], [type="reset"] {
+    @apply rounded-full;
+  }
   
   .neon-border {
     @apply border border-purple-500 shadow-lg shadow-purple-500/20;
