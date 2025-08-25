@@ -1,7 +1,7 @@
 {
   "name": "Livera MY",
   "version": "0.1.0",
-  "homepage": "https://khaizafron.github.io/livera-ticketing-app/"
+  "homepage": "https://khaizafron.github.io/livera-ticketing-app/",
   "private": true,
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.3",
